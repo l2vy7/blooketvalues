@@ -1,0 +1,492 @@
+[
+    {
+        "strength": 18,
+        "charisma": 16,
+        "wisdom": 18,
+        "class": "⚔️",
+        "name": "King"
+    },
+    {
+        "strength": 18,
+        "charisma": 10,
+        "wisdom": 16,
+        "class": "⚔️",
+        "name": "Dragon"
+    },
+    {
+        "strength": 17,
+        "charisma": 19,
+        "wisdom": 16,
+        "class": "🏰",
+        "name": "King of Hearts"
+    },
+    {
+        "strength": 16,
+        "charisma": 19,
+        "wisdom": 17,
+        "class": "☃️",
+        "name": "Santa Claus"
+    },
+    {
+        "strength": 16,
+        "charisma": 17,
+        "wisdom": 16,
+        "class": "⚔️",
+        "name": "Unicorn"
+    },
+    {
+        "strength": 16,
+        "charisma": 10,
+        "wisdom": 14,
+        "class": "🏰",
+        "name": "Dormouse"
+    },
+    {
+        "strength": 15,
+        "charisma": 7,
+        "wisdom": 8,
+        "class": "🌴",
+        "name": "Tiger"
+    },
+    {
+        "strength": 15,
+        "charisma": 6,
+        "wisdom": 5,
+        "class": "❄️",
+        "name": "Walrus"
+    },
+    {
+        "strength": 14,
+        "charisma": 18,
+        "wisdom": 16,
+        "class": "☃️",
+        "name": "Snowman"
+    },
+    {
+        "strength": 14,
+        "charisma": 6,
+        "wisdom": 12,
+        "class": "🏰",
+        "name": "Queen of Hearts"
+    },
+    {
+        "strength": 14,
+        "charisma": 10,
+        "wisdom": 10,
+        "class": "⚔️",
+        "name": "Slime Monster"
+    },
+    {
+        "strength": 14,
+        "charisma": 6,
+        "wisdom": 6,
+        "class": "❄️",
+        "name": "Penguin"
+    },
+    {
+        "strength": 14,
+        "charisma": 9,
+        "wisdom": 6,
+        "class": "🌴",
+        "name": "Panther"
+    },
+    {
+        "strength": 13,
+        "charisma": 14,
+        "wisdom": 18,
+        "class": "🏰",
+        "name": "Caterpillar"
+    },
+    {
+        "strength": 13,
+        "charisma": 6,
+        "wisdom": 9,
+        "class": "🌲",
+        "name": "Bear"
+    },
+    {
+        "strength": 13,
+        "charisma": 7,
+        "wisdom": 7,
+        "class": "🌴",
+        "name": "Jaguar"
+    },
+    {
+        "strength": 12,
+        "charisma": 18,
+        "wisdom": 15,
+        "class": "🏰",
+        "name": "Mad Hatter"
+    },
+    {
+        "strength": 12,
+        "charisma": 18,
+        "wisdom": 12,
+        "class": "⚔️",
+        "name": "Jester"
+    },
+    {
+        "strength": 12,
+        "charisma": 12,
+        "wisdom": 12,
+        "class": "🏰",
+        "name": "Eat Me"
+    },
+    {
+        "strength": 12,
+        "charisma": 7,
+        "wisdom": 9,
+        "class": "❄️",
+        "name": "Polar Bear"
+    },
+    {
+        "strength": 12,
+        "charisma": 8,
+        "wisdom": 9,
+        "class": "🌴",
+        "name": "Orangutan"
+    },
+    {
+        "strength": 12,
+        "charisma": 6,
+        "wisdom": 6,
+        "class": "🌽",
+        "name": "Cow"
+    },
+    {
+        "strength": 12,
+        "charisma": 8,
+        "wisdom": 5,
+        "class": "🌽",
+        "name": "Pig"
+    },
+    {
+        "strength": 11,
+        "charisma": 14,
+        "wisdom": 17,
+        "class": "🏰",
+        "name": "White Rabbit"
+    },
+    {
+        "strength": 11,
+        "charisma": 17,
+        "wisdom": 12,
+        "class": "☃️",
+        "name": "Gingerbread House"
+    },
+    {
+        "strength": 11,
+        "charisma": 7,
+        "wisdom": 9,
+        "class": "🌲",
+        "name": "Moose"
+    },
+    {
+        "strength": 11,
+        "charisma": 5,
+        "wisdom": 8,
+        "class": "🌴",
+        "name": "Anaconda"
+    },
+    {
+        "strength": 11,
+        "charisma": 6,
+        "wisdom": 7,
+        "class": "🌲",
+        "name": "Hedgehog"
+    },
+    {
+        "strength": 10,
+        "charisma": 16,
+        "wisdom": 16,
+        "class": "⚔️",
+        "name": "Queen"
+    },
+    {
+        "strength": 10,
+        "charisma": 17,
+        "wisdom": 15,
+        "class": "🏰",
+        "name": "Cheshire Cat"
+    },
+    {
+        "strength": 10,
+        "charisma": 12,
+        "wisdom": 14,
+        "class": "⚔️",
+        "name": "Elf"
+    },
+    {
+        "strength": 10,
+        "charisma": 10,
+        "wisdom": 13,
+        "class": "☃️",
+        "name": "Hot Chocolate"
+    },
+    {
+        "strength": 10,
+        "charisma": 18,
+        "wisdom": 13,
+        "class": "☃️",
+        "name": "Gingerbread Man"
+    },
+    {
+        "strength": 10,
+        "charisma": 13,
+        "wisdom": 11,
+        "class": "🏰",
+        "name": "Drink Me"
+    },
+    {
+        "strength": 10,
+        "charisma": 8,
+        "wisdom": 8,
+        "class": "🌲",
+        "name": "Fox"
+    },
+    {
+        "strength": 10,
+        "charisma": 6,
+        "wisdom": 6,
+        "class": "🌽",
+        "name": "Goat"
+    },
+    {
+        "strength": 9,
+        "charisma": 10,
+        "wisdom": 17,
+        "class": "⚔️",
+        "name": "Wizard"
+    },
+    {
+        "strength": 9,
+        "charisma": 8,
+        "wisdom": 15,
+        "class": "⚔️",
+        "name": "Witch"
+    },
+    {
+        "strength": 9,
+        "charisma": 6,
+        "wisdom": 12,
+        "class": "🌽",
+        "name": "Horse"
+    },
+    {
+        "strength": 9,
+        "charisma": 8,
+        "wisdom": 9,
+        "class": "🌽",
+        "name": "Dog"
+    },
+    {
+        "strength": 9,
+        "charisma": 7,
+        "wisdom": 9,
+        "class": "❄️",
+        "name": "Arctic Fox"
+    },
+    {
+        "strength": 8,
+        "charisma": 11,
+        "wisdom": 16,
+        "class": "⚔️",
+        "name": "Fairy"
+    },
+    {
+        "strength": 8,
+        "charisma": 15,
+        "wisdom": 11,
+        "class": "☃️",
+        "name": "Snow Globe"
+    },
+    {
+        "strength": 8,
+        "charisma": 16,
+        "wisdom": 8,
+        "class": "🏰",
+        "name": "Alice"
+    },
+    {
+        "strength": 8,
+        "charisma": 7,
+        "wisdom": 7,
+        "class": "❄️",
+        "name": "Arctic Hare"
+    },
+    {
+        "strength": 7,
+        "charisma": 10,
+        "wisdom": 16,
+        "class": "🏰",
+        "name": "Two of Spades"
+    },
+    {
+        "strength": 7,
+        "charisma": 4,
+        "wisdom": 13,
+        "class": "❄️",
+        "name": "Snowy Owl"
+    },
+    {
+        "strength": 7,
+        "charisma": 13,
+        "wisdom": 12,
+        "class": "☃️",
+        "name": "Holiday Wreath"
+    },
+    {
+        "strength": 7,
+        "charisma": 7,
+        "wisdom": 9,
+        "class": "🐾",
+        "name": "Cat"
+    },
+    {
+        "strength": 7,
+        "charisma": 11,
+        "wisdom": 8,
+        "class": "❄️",
+        "name": "Seal"
+    },
+    {
+        "strength": 7,
+        "charisma": 16,
+        "wisdom": 8,
+        "class": "☃️",
+        "name": "Holiday Gift"
+    },
+    {
+        "strength": 7,
+        "charisma": 11,
+        "wisdom": 7,
+        "class": "🌽",
+        "name": "Sheep"
+    },
+    {
+        "strength": 7,
+        "charisma": 7,
+        "wisdom": 7,
+        "class": "🌴",
+        "name": "Capuchin"
+    },
+    {
+        "strength": 6,
+        "charisma": 2,
+        "wisdom": 15,
+        "class": "🌲",
+        "name": "Owl"
+    },
+    {
+        "strength": 6,
+        "charisma": 4,
+        "wisdom": 12,
+        "class": "🌲",
+        "name": "Raccoon"
+    },
+    {
+        "strength": 6,
+        "charisma": 10,
+        "wisdom": 9,
+        "class": "🌴",
+        "name": "Toucan"
+    },
+    {
+        "strength": 6,
+        "charisma": 9,
+        "wisdom": 8,
+        "class": "🐾",
+        "name": "Rabbit"
+    },
+    {
+        "strength": 5,
+        "charisma": 7,
+        "wisdom": 12,
+        "class": "🐾",
+        "name": "Turtle"
+    },
+    {
+        "strength": 5,
+        "charisma": 14,
+        "wisdom": 9,
+        "class": "🌴",
+        "name": "Parrot"
+    },
+    {
+        "strength": 5,
+        "charisma": 12,
+        "wisdom": 8,
+        "class": "🌴",
+        "name": "Macaw"
+    },
+    {
+        "strength": 5,
+        "charisma": 11,
+        "wisdom": 7,
+        "class": "🐾",
+        "name": "Hamster"
+    },
+    {
+        "strength": 5,
+        "charisma": 14,
+        "wisdom": 4,
+        "class": "🐾",
+        "name": "Kitten"
+    },
+    {
+        "strength": 5,
+        "charisma": 15,
+        "wisdom": 3,
+        "class": "🐾",
+        "name": "Puppy"
+    },
+    {
+        "strength": 4,
+        "charisma": 8,
+        "wisdom": 12,
+        "class": "🌽",
+        "name": "Duck"
+    },
+    {
+        "strength": 4,
+        "charisma": 10,
+        "wisdom": 10,
+        "class": "🌽",
+        "name": "Chicken"
+    },
+    {
+        "strength": 4,
+        "charisma": 10,
+        "wisdom": 10,
+        "class": "🌴",
+        "name": "Cockatoo"
+    },
+    {
+        "strength": 4,
+        "charisma": 15,
+        "wisdom": 6,
+        "class": "🌲",
+        "name": "Squirrel"
+    },
+    {
+        "strength": 4,
+        "charisma": 14,
+        "wisdom": 6,
+        "class": "❄️",
+        "name": "Baby Penguin"
+    },
+    {
+        "strength": 4,
+        "charisma": 15,
+        "wisdom": 3,
+        "class": "🐾",
+        "name": "Goldfish"
+    },
+    {
+        "strength": 1,
+        "charisma": 16,
+        "wisdom": 5,
+        "class": "🌽",
+        "name": "Chick"
+    }
+]

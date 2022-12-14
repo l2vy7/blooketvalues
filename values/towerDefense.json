@@ -1,0 +1,1036 @@
+[
+    {
+        "drawLine": false,
+        "width": 0.6,
+        "blook": "Pig",
+        "name": "pig",
+        "title": "Pig Bomber",
+        "desc": "Shoots a ball that explodes and deals damage.",
+        "fullCd": 90,
+        "cost": 4,
+        "range": 1.5,
+        "damage": 5,
+        "blastRadius": 0.6,
+        "upgrades": [
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Big Pig",
+                        "cost": 2,
+                        "dmgMult": 2,
+                        "width": 0.65
+                    }
+                },
+                {
+                    "desc": "x1.5 Blast Area",
+                    "icon": "fas fa-bullseye",
+                    "iconColor": "#ff3333",
+                    "data": {
+                        "title": "Boomer Pig",
+                        "cost": 2,
+                        "blastMult": 1.5,
+                        "width": 0.65
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Power Pig",
+                        "dmgMult": 2,
+                        "cost": 2
+                    }
+                },
+                {
+                    "desc": "+1 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Perceptive Pig",
+                        "cost": 1,
+                        "range": 2.5
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Throw a Disco Ball that forces enemies to dance for 1s",
+                    "iconBlook": "Party Pig",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Party Pig",
+                        "cost": 4,
+                        "blook": "Party Pig"
+                    }
+                },
+                {
+                    "desc": "After exploding, split into 5 mini exploding balls",
+                    "iconBlook": "Pig",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "Giant Pig",
+                        "cost": 4,
+                        "width": 1
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "drawLine": false,
+        "width": 0.6,
+        "blook": "Unicorn",
+        "name": "unicorn",
+        "title": "Rocket Unicorn",
+        "desc": "Fires an auto-tracking missile that explodes on contact.",
+        "fullCd": 90,
+        "cost": 6,
+        "range": 5,
+        "damage": 5,
+        "blastRadius": 0.7,
+        "upgrades": [
+            [
+                {
+                    "desc": "+2 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Swift Unicorn",
+                        "cost": 1,
+                        "rangeAdd": 2
+                    }
+                },
+                {
+                    "desc": "x1.5 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Majestic Unicorn",
+                        "cost": 2,
+                        "cdMult": 0.6666666666666666
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Daring Unicorn",
+                        "cost": 3,
+                        "dmgMult": 2
+                    }
+                },
+                {
+                    "desc": "x1.5 Blast Area",
+                    "icon": "fas fa-bullseye",
+                    "iconColor": "#ff3333",
+                    "data": {
+                        "title": "Kaboom Unicorn",
+                        "cost": 2,
+                        "blastMult": 1.5
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Fires missiles that deal 15% of an enemy's current health as bonus damage (max 50)",
+                    "iconBlook": "Crazy Unicorn",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Crazy Unicorn",
+                        "blook": "Crazy Unicorn",
+                        "width": 0.7,
+                        "cost": 7,
+                        "angle": 0
+                    }
+                },
+                {
+                    "desc": "Fire tracking corn cobs that explode into tracking kernals",
+                    "iconBlook": "uni-CORN",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "uni-CORN",
+                        "blook": "uni-CORN",
+                        "width": 0.7,
+                        "cost": 4
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "lineColor": "#594a42",
+        "width": 0.55,
+        "blook": "Owl",
+        "weight": 3,
+        "name": "owl",
+        "title": "Owl Sniper",
+        "desc": "Shoots high damage bullets from a long range.",
+        "fullCd": 120,
+        "cost": 3,
+        "range": 9,
+        "damage": 5,
+        "upgrades": [
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Buff Owl",
+                        "dmgMult": 2,
+                        "cost": 2
+                    }
+                },
+                {
+                    "desc": "x1.5 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Quick Owl",
+                        "cost": 2,
+                        "cdMult": 0.6666666666666666
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Power Owl",
+                        "dmgMult": 2,
+                        "cost": 2
+                    }
+                },
+                {
+                    "desc": "x1.5 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Speedy Owl",
+                        "cost": 2,
+                        "cdMult": 0.6666666666666666
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Each attack also deals 25% of an enemy's current health as damage (max 150)",
+                    "iconBlook": "Agent Owl",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Agent Owl",
+                        "blook": "Agent Owl",
+                        "cost": 5,
+                        "lineColor": "#32da4e",
+                        "weight": 6
+                    }
+                },
+                {
+                    "desc": "Transforms into 3 birds that deal damage to all enemies in a line",
+                    "iconBlook": "Cockatoo",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "BIRDS",
+                        "cost": 4,
+                        "width": 0.32,
+                        "weight": 1,
+                        "blook": "Cockatoo"
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "drawLine": false,
+        "width": 0.5,
+        "blook": "Squirrel",
+        "name": "squirrel",
+        "title": "Nutty Squirrel",
+        "desc": "Throws harmful nuts at enemies.",
+        "fullCd": 45,
+        "cost": 3,
+        "range": 1.5,
+        "damage": 3,
+        "upgrades": [
+            [
+                {
+                    "desc": "+1 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Sharp Squirrel",
+                        "range": 3,
+                        "cost": 1,
+                        "width": 0.55
+                    }
+                },
+                {
+                    "desc": "x2 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Swift Squirrel",
+                        "cost": 2,
+                        "cdMult": 0.5,
+                        "width": 0.55
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "x3 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Strong Squirrel",
+                        "cost": 3,
+                        "dmgMult": 3
+                    }
+                },
+                {
+                    "desc": "x1.5 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Speedster Squirrel",
+                        "cost": 2,
+                        "cdMult": 0.6666666666666666
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Transform into 9 mini squirrels, each with a 1/4 damage acorn",
+                    "iconBlook": "Squirrel",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Lots O' Squirrels",
+                        "cost": 4,
+                        "width": 0.3,
+                        "dmgMult": 2.25
+                    }
+                },
+                {
+                    "desc": "Every 5 attacks, the squirrel goes nuts and throws acorns rapidly",
+                    "iconBlook": "Nuts Squirrel",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "GO NUTS SQUIRREL",
+                        "blook": "Nuts Squirrel",
+                        "img": "Squirrel",
+                        "cost": 4,
+                        "width": 0.6,
+                        "nutsAttacks": 0,
+                        "nutsCd": 4
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "drawLine": false,
+        "width": 0.6,
+        "blook": "Dragon",
+        "name": "dragon",
+        "title": "Flame Dragon",
+        "desc": "Breaths damaging fire in a short-range, cone-like shape.",
+        "fullCd": 70,
+        "cost": 4,
+        "range": 1.4,
+        "damage": 3,
+        "upgrades": [
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Mighty Dragon",
+                        "cost": 2,
+                        "dmgMult": 2
+                    }
+                },
+                {
+                    "desc": "x1.25 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Swift Dragon",
+                        "cost": 2,
+                        "cdMult": 0.8
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Lethal Dragon",
+                        "cost": 2,
+                        "dmgMult": 2
+                    }
+                },
+                {
+                    "desc": "x1.25 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Speed Dragon",
+                        "cost": 1,
+                        "cdMult": 0.8
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "+1 Range and x1.75 Damage; this will hurt",
+                    "iconBlook": "Fire Dragon",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Fire Dragon",
+                        "cost": 4,
+                        "width": 0.7,
+                        "blook": "Fire Dragon",
+                        "range": 2.4,
+                        "dmgMult": 1.75
+                    }
+                },
+                {
+                    "desc": "Halve the firing rate, but blow back enemies that are hit by your breath",
+                    "iconBlook": "Wind Dragon",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "Wind Dragon",
+                        "cost": 4,
+                        "width": 0.7,
+                        "cdMult": 2,
+                        "blook": "Wind Dragon"
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "drawLine": false,
+        "follow": false,
+        "width": 0.6,
+        "blook": "Goldfish",
+        "name": "goldfish",
+        "title": "Splashy Goldfish",
+        "desc": "Deals damage by splashing enemies around himself.",
+        "fullCd": 60,
+        "cost": 4,
+        "range": 1,
+        "damage": 2,
+        "upgrades": [
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Goldy Goldfish",
+                        "cost": 2,
+                        "dmgMult": 2,
+                        "width": 0.65
+                    }
+                },
+                {
+                    "desc": "x1.5 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Quick Goldfish",
+                        "cost": 2,
+                        "cdMult": 0.6666666666666666,
+                        "width": 0.65
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Super Goldfish",
+                        "dmgMult": 2,
+                        "cost": 2
+                    }
+                },
+                {
+                    "desc": "x1.5 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Soaker Goldfish",
+                        "cost": 2,
+                        "range": 1.5
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Every 2 attacks, spawn a fish that follows the path and explodes on contact",
+                    "iconBlook": "Goldfish",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "School of Fish",
+                        "fishCd": 0,
+                        "cost": 4,
+                        "width": 0.65
+                    }
+                },
+                {
+                    "desc": "Every attack, send out an extra wave of half-strength damage",
+                    "iconBlook": "Red Goldfish",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "Hungry Fish",
+                        "cost": 4,
+                        "blook": "Red Goldfish",
+                        "width": 0.65,
+                        "secondAttack": false
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "drawLine": false,
+        "width": 0.6,
+        "blook": "Elf",
+        "name": "elf",
+        "title": "Archer Elf",
+        "desc": "Fires arrows to damage enemies.",
+        "fullCd": 60,
+        "cost": 4,
+        "range": 2,
+        "damage": 2,
+        "upgrades": [
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Buff Elf",
+                        "cost": 2,
+                        "dmgMult": 2
+                    }
+                },
+                {
+                    "desc": "x1.5 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Stealth Elf",
+                        "cost": 2,
+                        "cdMult": 0.6666666666666666
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "+1 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Sharpshot Elf",
+                        "cost": 2,
+                        "range": 3
+                    }
+                },
+                {
+                    "desc": "x1.5 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Prodigy Elf",
+                        "cost": 2,
+                        "cdMult": 0.6666666666666666
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Deal 75% Damage, but shoot 4 times as fast",
+                    "iconBlook": "Master Elf",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Master Elf",
+                        "cost": 4,
+                        "blook": "Master Elf",
+                        "cdMult": 0.25,
+                        "dmgMult": 0.75
+                    }
+                },
+                {
+                    "desc": "Shoot enchanted arrows that explode and deal x2.5 damage",
+                    "iconBlook": "Enchanted Elf",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "Enchanted Elf",
+                        "cost": 4,
+                        "blook": "Enchanted Elf",
+                        "dmgMult": 2.5
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "drawLine": true,
+        "lineColor": "#ffcd05",
+        "weight": 10,
+        "width": 0.6,
+        "blook": "Wizard",
+        "name": "wizard",
+        "title": "Spark Wizard",
+        "desc": "Shoots a spark that jumps from enemy to enemy while dealing damage.",
+        "fullCd": 90,
+        "cost": 5,
+        "range": 1.7,
+        "damage": 2,
+        "maxTargets": 7,
+        "weightDec": 1,
+        "upgrades": [
+            [
+                {
+                    "desc": "x2.5 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Advanced Wizard",
+                        "cost": 2,
+                        "dmgMult": 2.5
+                    }
+                },
+                {
+                    "desc": "x1.5 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Quickcast Wizard",
+                        "cost": 2,
+                        "cdMult": 0.6666666666666666
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Elder Wizard",
+                        "cost": 2,
+                        "dmgMult": 2,
+                        "lineColor": "#5a459c",
+                        "width": 0.65
+                    }
+                },
+                {
+                    "desc": "x2 Max Zap Targets",
+                    "icon": "fas fa-bolt",
+                    "iconColor": "#5a459c",
+                    "data": {
+                        "title": "Crazy Wizard",
+                        "cost": 2,
+                        "maxTargetsMult": 2,
+                        "lineColor": "#5a459c",
+                        "width": 0.65,
+                        "weightDec": 0.6
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Every attack, also cast a cursed, exploding orb",
+                    "iconBlook": "Witch",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Evil Witch",
+                        "cost": 4,
+                        "blook": "Witch",
+                        "lineColor": "#3a3a3a"
+                    }
+                },
+                {
+                    "desc": "Harness the power of lightning to double your max zap targets",
+                    "iconBlook": "Lightning Wizard",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "God of Lightning",
+                        "cost": 4,
+                        "blook": "Lightning Wizard",
+                        "maxTargetsMult": 2,
+                        "weight": 12,
+                        "weightDec": 0.4,
+                        "lineColor": "#1affff"
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "drawLine": false,
+        "width": 0.6,
+        "blook": "King",
+        "name": "king",
+        "title": "The King",
+        "desc": "Throws damaging swords at an alarmingly fast pace.",
+        "fullCd": 6,
+        "cost": 12,
+        "range": 2,
+        "damage": 1,
+        "upgrades": [
+            [
+                {
+                    "desc": "x1.5 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Noble King",
+                        "cost": 7,
+                        "cdMult": 0.6666666666666666
+                    }
+                },
+                {
+                    "desc": "+1 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Wise King",
+                        "cost": 2,
+                        "rangeAdd": 1
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "x2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Mighty King",
+                        "cost": 7,
+                        "dmgMult": 2,
+                        "width": 0.65
+                    }
+                },
+                {
+                    "desc": "+1 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Great King",
+                        "cost": 2,
+                        "rangeAdd": 1,
+                        "width": 0.65
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Shoot hearts that explode and deal damage in an area",
+                    "iconBlook": "King of Hearts",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "King of Hearts",
+                        "blook": "King of Hearts",
+                        "cost": 7,
+                        "width": 0.75
+                    }
+                },
+                {
+                    "desc": "Throws haunted swords that deal double the damage",
+                    "iconBlook": "Phantom King",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "Phantom King",
+                        "blook": "Phantom King",
+                        "cost": 7,
+                        "width": 0.75,
+                        "dmgMult": 2
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "lineColor": "#ffcd05",
+        "width": 0.5,
+        "blook": "Chick",
+        "weight": 5,
+        "name": "chick",
+        "title": "Laser Chick",
+        "desc": "A Chick that shoots lasers, enough said.",
+        "fullCd": 40,
+        "cost": 2,
+        "range": 2,
+        "damage": 1,
+        "upgrades": [
+            [
+                {
+                    "desc": "+1 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Wise Chick",
+                        "range": 3,
+                        "cost": 1,
+                        "width": 0.55
+                    }
+                },
+                {
+                    "desc": "x2 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Quick Chick",
+                        "cdMult": 0.5,
+                        "cost": 2,
+                        "width": 0.55
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "x3 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Strong Chick",
+                        "cost": 2,
+                        "dmgMult": 3,
+                        "width": 0.6
+                    }
+                },
+                {
+                    "desc": "x2 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Speedy Chick",
+                        "cdMult": 0.5,
+                        "cost": 2,
+                        "width": 0.6
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Transform into 3 Chicks, each with a laser (x3 damage)",
+                    "iconBlook": "Chick",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Chick Army",
+                        "cost": 4,
+                        "width": 0.35,
+                        "dmgMult": 3
+                    }
+                },
+                {
+                    "desc": "No more lasers, just x1.5 damage explosive eggs",
+                    "iconBlook": "Chicken",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "Chicken Bomber",
+                        "blook": "Chicken",
+                        "cost": 4,
+                        "dmgMult": 1.5,
+                        "width": 0.65
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "drawLine": false,
+        "follow": false,
+        "width": 0.5,
+        "blook": "Baby Penguin",
+        "name": "penguin",
+        "title": "Freeze Penguin",
+        "desc": "Occasionally freezes all enemies around himself.",
+        "fullCd": 110,
+        "freezeTime": 15,
+        "cost": 3,
+        "range": 1,
+        "damage": 0,
+        "upgrades": [
+            [
+                {
+                    "desc": "+1 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Icicle Penguin",
+                        "cost": 1,
+                        "damage": 1,
+                        "width": 0.55
+                    }
+                },
+                {
+                    "desc": "x1.25 Firing Rate",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Blizzard Penguin",
+                        "cost": 2,
+                        "cdMult": 0.8,
+                        "width": 0.55
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "+2 Damage",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "Frosty Penguin",
+                        "dmgAdd": 2,
+                        "cost": 1
+                    }
+                },
+                {
+                    "desc": "x1.5 Freeze Time",
+                    "icon": "far fa-snowflake",
+                    "iconColor": "#5c5c8a",
+                    "data": {
+                        "title": "Sub-Zero Penguin",
+                        "cost": 2,
+                        "freezeMult": 1.5
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "No more freezing, but greatly slow all enemies within range",
+                    "iconBlook": "Penguin",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Emperor Penguin",
+                        "cost": 4,
+                        "blook": "Penguin",
+                        "width": 0.65
+                    }
+                },
+                {
+                    "desc": "Every 5 attacks, execute an enemy (deal 150 damage)",
+                    "iconBlook": "Arctic Fox",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "Arctic Buddies",
+                        "cost": 4,
+                        "executeCd": 4,
+                        "width": 0.4,
+                        "follow": true,
+                        "drawLine": true
+                    }
+                }
+            ]
+        ]
+    },
+    {
+        "drawLine": false,
+        "width": 0.6,
+        "blook": "Jester",
+        "name": "jester",
+        "title": "Helpful Jester",
+        "desc": "Every 10 seconds gives nearby towers bonus buffs (+50% damage to start).",
+        "fullCd": 300,
+        "cost": 4,
+        "range": 2,
+        "damage": 0,
+        "damageBuff": 1.5,
+        "speedBuff": 1,
+        "upgrades": [
+            [
+                {
+                    "desc": "x2 Firing Rate to Buffed Towers",
+                    "icon": "fas fa-running",
+                    "iconColor": "#31b431",
+                    "data": {
+                        "title": "Charming Jester",
+                        "cost": 2,
+                        "speedBuff": 0.5
+                    }
+                },
+                {
+                    "desc": "+1 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Friendly Jester",
+                        "cost": 1,
+                        "rangeAdd": 1
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "From x1.5 to x2 Damage to Buffed Towers",
+                    "icon": "fas fa-fist-raised",
+                    "iconColor": "#ff751a",
+                    "data": {
+                        "title": "General Jester",
+                        "cost": 2,
+                        "damageBuff": 1.75
+                    }
+                },
+                {
+                    "desc": "+1 Range",
+                    "icon": "fas fa-expand-alt",
+                    "iconColor": "#4d94ff",
+                    "data": {
+                        "title": "Good Guy Jester",
+                        "cost": 1,
+                        "rangeAdd": 1
+                    }
+                }
+            ],
+            [
+                {
+                    "desc": "Multiply your attack speed and damage buffs by 1.5",
+                    "iconBlook": "Mad Hatter",
+                    "data": {
+                        "finalUpgrade": 0,
+                        "title": "Mad Hatter",
+                        "blook": "Mad Hatter",
+                        "width": 0.7,
+                        "cost": 4,
+                        "dmgBuffMult": 1.5,
+                        "speedBuffMult": 0.6666666666666666
+                    }
+                },
+                {
+                    "desc": "Decrease your size and halve your cooldown",
+                    "iconBlook": "Jester",
+                    "data": {
+                        "finalUpgrade": 1,
+                        "title": "Mini Jester",
+                        "width": 0.3,
+                        "cost": 4,
+                        "cdMult": 0.5
+                    }
+                }
+            ]
+        ]
+    }
+]
